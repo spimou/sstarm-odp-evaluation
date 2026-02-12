@@ -1,0 +1,2007 @@
+PREFIX :     <http://foko2014.gnm.de/content/>
+PREFIX ns1:  <http://erlangen-crm.org/140617/>
+PREFIX ns2:  <http://id.gnm.de/ont/foko/>
+PREFIX owl:  <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ss:   <http://data.sikart.ch/schema#>
+PREFIX xml:  <http://www.w3.org/XML/1998/namespace>
+PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f582_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span19ecd9>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3f582;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span19ecd9 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object43fd7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span274567>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object43fd7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span274567 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event226af8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object31101e_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span311035>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event226af8;
+        ss:eventConnectionObject    :foko_Object31101e;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span311035 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object34ab96_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3d0191>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object34ab96;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3d0191 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3fb1a_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span28ad39>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3fb1a;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span28ad39 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object49320_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span10eb99>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object49320;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span10eb99 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object309c2c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span30a4dd>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object309c2c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span30a4dd .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1c5406_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span25228a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1c5406;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span25228a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d1238_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span22a780>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1d1238;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span22a780 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d38e8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span29dc83>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object1d38e8;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span29dc83 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1b4480_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span290ce9>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1b4480;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span290ce9 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object412e3_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span210942>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object412e3;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span210942 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta53bc_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3afb4e>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Objecta53bc;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3afb4e .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object485bd_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span13e64f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object485bd;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span13e64f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event179ebc_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3eb66_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span179ebb>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event179ebc;
+        ss:eventConnectionObject    :foko_Object3eb66;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span179ebb .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f582_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span19ecd5>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f582;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span19ecd5 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object64659_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span231ec9>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object64659;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span231ec9 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2022d1_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span202588>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object2022d1;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span202588 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa24df_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f9a1_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span369ed3>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa24df;
+        ss:eventConnectionObject    :foko_Object3f9a1;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span369ed3 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa096c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object46780_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spanc8cd5>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa096c;
+        ss:eventConnectionObject    :foko_Object46780;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spanc8cd5 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object419f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2754bb>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object419f4;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2754bb .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f5b2_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span19f8d6>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f5b2;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span19f8d6 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event1867ed_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object34ac1d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3c5707>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event1867ed;
+        ss:eventConnectionObject    :foko_Object34ac1d;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3c5707 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event1efa83_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object245488_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2454a9>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event1efa83;
+        ss:eventConnectionObject    :foko_Object245488;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2454a9 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4346f_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2bf168>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object4346f;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2bf168 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f1eb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span17dbbf>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3f1eb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span17dbbf .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47729_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spanf74f8>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object47729;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spanf74f8 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2c1309_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3261c5>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object2c1309;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3261c5 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object419f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span27c580>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object419f4;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span27c580 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object485bd_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span13e651>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object485bd;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span13e651 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event1867ed_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object34f68b_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3c4e0a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event1867ed;
+        ss:eventConnectionObject    :foko_Object34f68b;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3c4e0a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object479b9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1568b1>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object479b9;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1568b1 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f1eb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span17dbbd>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3f1eb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span17dbbd .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event25c5b6_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object24fe97_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span31d2ad>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event25c5b6;
+        ss:eventConnectionObject    :foko_Object24fe97;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span31d2ad .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f9a1_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span4677a9>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object3f9a1;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span4677a9 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4349d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span30ff24>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object4349d;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span30ff24 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f46c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span19b311>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f46c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span19b311 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4346f_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2bbac5>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object4346f;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2bbac5 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa24df_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42897_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span7dddf>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa24df;
+        ss:eventConnectionObject    :foko_Object42897;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span7dddf .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa24df_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40431_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1c9ee2>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa24df;
+        ss:eventConnectionObject    :foko_Object40431;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1c9ee2 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object48a99_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span15994d>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object48a99;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span15994d .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42581_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2161ad>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object42581;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2161ad .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object48d90_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span102fac>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object48d90;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span102fac .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object309c2c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span30a4df>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object309c2c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span30a4df .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f8e9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1a321c>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f8e9;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1a321c .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object404ba_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1caade>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object404ba;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1caade .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object181f9c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span229d66>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object181f9c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span229d66 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object41667_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2209df>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object41667;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2209df .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f4f8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span19c19b>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3f4f8;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span19c19b .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2c1309_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3261c1>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object2c1309;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3261c1 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f612_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1a0bce>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3f612;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1a0bce .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object414f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span218263>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object414f4;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span218263 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object435b1_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2b9309>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object435b1;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2b9309 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object451ed_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3d4ece>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object451ed;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3d4ece .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1980f8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span249354>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object1980f8;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span249354 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object34a914_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3c18c8>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object34a914;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3c18c8 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47a99_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spana0969>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object47a99;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spana0969 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42897_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span171b2d>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object42897;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span171b2d .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4349d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span30ff22>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object4349d;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span30ff22 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1cff72_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span226afb>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1cff72;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span226afb .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40431_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1c9ee6>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object40431;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1c9ee6 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4871c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span13cd50>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Object4871c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span13cd50 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d7835_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1d7856>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1d7835;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1d7856 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object24fd52_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span30d7d1>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object24fd52;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span30d7d1 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1920d4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span21b051>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1920d4;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span21b051 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40a6c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1f6aa6>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object40a6c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1f6aa6 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object191f89_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span219acb>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object191f89;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span219acb .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta7b19_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span54593a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Objecta7b19;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span54593a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f612_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1a0eab>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f612;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1a0eab .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event982ec_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object48a99_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span15943b>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event982ec;
+        ss:eventConnectionObject    :foko_Object48a99;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span15943b .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object45244_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1c6c59>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object45244;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1c6c59 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3fc2e_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1ab1aa>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3fc2e;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1ab1aa .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object191f89_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span219ac9>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object191f89;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span219ac9 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object41667_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2209e5>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object41667;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2209e5 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object46e13_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spand2c24>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object46e13;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spand2c24 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event30d7ce_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta67a2_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span5aed29>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event30d7ce;
+        ss:eventConnectionObject    :foko_Objecta67a2;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span5aed29 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1c5a14_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2546d7>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1c5a14;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2546d7 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42b0c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2a1eda>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object42b0c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2a1eda .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40bfd_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1d4e8e>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object40bfd;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1d4e8e .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object49139_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span108126>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object49139;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span108126 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object197b52_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span223564>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object197b52;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span223564 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42496_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span33188e>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object42496;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span33188e .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d36df_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span29d727>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1d36df;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span29d727 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object180da3_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span227d65>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object180da3;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span227d65 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f695_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1a14db>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f695;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1a14db .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object419c6_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span26f2a7>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object419c6;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span26f2a7 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object360ab0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3bff6f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object360ab0;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3bff6f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f775_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span188d6d>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object3f775;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span188d6d .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1bafeb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span25424a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object1bafeb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span25424a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event179ebc_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object406f5_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1f5668>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event179ebc;
+        ss:eventConnectionObject    :foko_Object406f5;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1f5668 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f3b2_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span19974c>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f3b2;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span19974c .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4346f_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2bf166>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object4346f;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2bf166 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object458b0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span98f32>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object458b0;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span98f32 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object461f0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span165f26>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object461f0;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span165f26 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event982ec_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47c01_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1320a9>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event982ec;
+        ss:eventConnectionObject    :foko_Object47c01;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1320a9 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object41667_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2209e3>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object41667;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2209e3 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object21d2a7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span21d2c7>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object21d2a7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span21d2c7 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object49320_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span10ef4b>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object49320;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span10ef4b .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object45e5b_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spanac071>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object45e5b;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spanac071 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object5899cb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span589a57>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object5899cb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span589a57 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object48591_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span13e0c2>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object48591;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span13e0c2 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa096c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object48a99_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span159439>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa096c;
+        ss:eventConnectionObject    :foko_Object48a99;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span159439 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2c1309_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3261cb>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object2c1309;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3261cb .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object406f5_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1f5662>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object406f5;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1f5662 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1bb6cb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span25cdac>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1bb6cb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span25cdac .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event25c5b6_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1bb6cb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span25cdae>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event25c5b6;
+        ss:eventConnectionObject    :foko_Object1bb6cb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span25cdae .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1c5406_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span25228c>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object1c5406;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span25228c .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42897_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span171b27>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Object42897;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span171b27 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event188d70_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f7a3_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span188f0a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event188d70;
+        ss:eventConnectionObject    :foko_Object3f7a3;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span188f0a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object48d90_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span102faa>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object48d90;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span102faa .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event21d2c4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d011a_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span297bd2>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event21d2c4;
+        ss:eventConnectionObject    :foko_Object1d011a;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span297bd2 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47cb9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1257e5>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object47cb9;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1257e5 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f4f8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span19c19f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f4f8;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span19c19f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4349d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span30fc45>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object4349d;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span30fc45 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa24df_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta8a5f_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span115c69>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa24df;
+        ss:eventConnectionObject    :foko_Objecta8a5f;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span115c69 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1c5406_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span252390>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1c5406;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span252390 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object470e3_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spane95ef>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object470e3;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spane95ef .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4210b_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1db009>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object4210b;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1db009 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40e06_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2810ee>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object40e06;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2810ee .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object45987_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span99c53>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object45987;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span99c53 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event226af8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1cff72_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span226af7>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event226af8;
+        ss:eventConnectionObject    :foko_Object1cff72;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span226af7 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d420e_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span29fb87>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1d420e;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span29fb87 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta7b19_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span545938>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Objecta7b19;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span545938 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3ebe7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span175884>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object3ebe7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span175884 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event21d2c4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object21d2a7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span21d2c3>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event21d2c4;
+        ss:eventConnectionObject    :foko_Object21d2a7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span21d2c3 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object420d7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2a3ac3>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object420d7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2a3ac3 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object49013_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spanc0b45>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object49013;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spanc0b45 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa24df_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta830f_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span14d5f6>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa24df;
+        ss:eventConnectionObject    :foko_Objecta830f;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span14d5f6 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object48cb4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span100318>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object48cb4;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span100318 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object483ab_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span14b541>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object483ab;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span14b541 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3afd24_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span57d10d>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3afd24;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span57d10d .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4871c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span13bfba>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Object4871c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span13bfba .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event30d7ce_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta5a87_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span59024c>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event30d7ce;
+        ss:eventConnectionObject    :foko_Objecta5a87;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span59024c .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2022d1_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span20258e>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object2022d1;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span20258e .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d8cca_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2c3489>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object1d8cca;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2c3489 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3ff5d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1b87d9>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Object3ff5d;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1b87d9 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object423ae_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2f80ac>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object423ae;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2f80ac .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object34f68b_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3c4e0c>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object34f68b;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3c4e0c .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object466d6_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spanc3523>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object466d6;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spanc3523 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event1efa83_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object650b2_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1f8686>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event1efa83;
+        ss:eventConnectionObject    :foko_Object650b2;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1f8686 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f3e2_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span19963e>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f3e2;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span19963e .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object347a79_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span36f489>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object347a79;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span36f489 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1ccff7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span294c1b>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1ccff7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span294c1b .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d8241_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2a9d77>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1d8241;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2a9d77 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event13cd44_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4871c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span13cd43>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event13cd44;
+        ss:eventConnectionObject    :foko_Object4871c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span13cd43 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f9a1_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span4677a7>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object3f9a1;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span4677a7 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2cb54b_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2cbf07>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object2cb54b;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2cbf07 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object331514_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span332815>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object331514;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span332815 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1e2a04_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1e40eb>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1e2a04;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1e40eb .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4871c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span13bfb6>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Object4871c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span13bfb6 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa096c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object49320_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span10ef4d>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa096c;
+        ss:eventConnectionObject    :foko_Object49320;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span10ef4d .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa24df_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object317a46_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span318056>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa24df;
+        ss:eventConnectionObject    :foko_Object317a46;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span318056 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40d41_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1d462e>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object40d41;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1d462e .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta58b3_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span58be61>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Objecta58b3;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span58be61 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object412e3_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span210944>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object412e3;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span210944 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1e2a04_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1e3a2a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object1e2a04;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1e3a2a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object404e7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1cb020>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object404e7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1cb020 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3ff5d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1b87db>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Object3ff5d;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1b87db .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3ff5d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1b87d5>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object3ff5d;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1b87d5 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1c5a14_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span32bcc6>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1c5a14;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span32bcc6 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object45d7c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spana9abc>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object45d7c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spana9abc .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3efa8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1874d5>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3efa8;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1874d5 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2c1309_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3261c7>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object2c1309;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3261c7 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2e33ae_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2e3b52>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object2e33ae;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2e3b52 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object34ac1d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3c5709>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object34ac1d;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3c5709 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d0b87_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span296dc5>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1d0b87;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span296dc5 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1ccff7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span294c19>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1ccff7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span294c19 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object426d0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span297d2d>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object426d0;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span297d2d .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object24fe97_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span31d7f4>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object24fe97;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span31d7f4 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d011a_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span297bd6>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1d011a;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span297bd6 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object49139_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span108124>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object49139;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span108124 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object421ef_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2e1e60>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object421ef;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2e1e60 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f4ca_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span19bacf>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f4ca;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span19bacf .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d861b_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2aa55c>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object1d861b;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2aa55c .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object34ab96_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3d018f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object34ab96;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3d018f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object30ce7a_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3873fd>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object30ce7a;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3873fd .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2cb485_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2cc014>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object2cb485;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2cc014 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40a6c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1f6aa8>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object40a6c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1f6aa8 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object46780_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spanc8b14>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object46780;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spanc8b14 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object181f9c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span229d64>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object181f9c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span229d64 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3ebe7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span175888>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3ebe7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span175888 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1980f8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span249356>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1980f8;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span249356 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object43a2e_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span26e132>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object43a2e;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span26e132 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa096c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47ac7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spana13c5>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa096c;
+        ss:eventConnectionObject    :foko_Object47ac7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spana13c5 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object48ea9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span104a4e>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object48ea9;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span104a4e .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42897_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span171b23>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object42897;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span171b23 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event226af8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object309c2c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span30a4db>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event226af8;
+        ss:eventConnectionObject    :foko_Object309c2c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span30a4db .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40e06_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2810f2>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object40e06;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2810f2 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47b24_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span12b88a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object47b24;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span12b88a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object181f9c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span229d62>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object181f9c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span229d62 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40909_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span204ef2>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object40909;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span204ef2 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f582_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span19ecd3>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3f582;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span19ecd3 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object49139_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span108128>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object49139;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span108128 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1c9f35_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1ca001>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1c9f35;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1ca001 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40bfd_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1d4e90>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object40bfd;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1d4e90 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object24fe97_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span31d4bc>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object24fe97;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span31d4bc .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object483ab_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span14b53d>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Object483ab;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span14b53d .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object451c5_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1e8964>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object451c5;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1e8964 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object180da3_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span227d63>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object180da3;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span227d63 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object483ab_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span14b53f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object483ab;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span14b53f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47a99_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spana096f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Object47a99;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spana096f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4210b_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1db00b>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object4210b;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1db00b .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42b3a_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2a2a12>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object42b3a;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2a2a12 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object470e3_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spane9a03>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object470e3;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spane9a03 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47729_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spanf74f6>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object47729;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spanf74f6 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1bad98_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2c75ae>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1bad98;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2c75ae .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47d12_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span12118f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object47d12;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span12118f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object16c7d7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span16d431>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object16c7d7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span16d431 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3ebe7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span174ff8>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object3ebe7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span174ff8 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event982ec_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47d12_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span12166a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event982ec;
+        ss:eventConnectionObject    :foko_Object47d12;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span12166a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d1238_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span22a77f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1d1238;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span22a77f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f1eb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span5a77dc>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3f1eb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span5a77dc .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42897_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span171b2b>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object42897;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span171b2b .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object24fed8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2cb41a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object24fed8;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2cb41a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object647d7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span245f2b>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object647d7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span245f2b .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object6770e_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span22fac7>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object6770e;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span22fac7 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object418dd_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2e8f59>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object418dd;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2e8f59 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta53bc_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3afb4c>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Objecta53bc;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3afb4c .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2c1309_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3261c9>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object2c1309;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3261c9 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40bcf_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1d5659>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object40bcf;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1d5659 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4063a_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1ce06d>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object4063a;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1ce06d .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2022d1_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span20258a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object2022d1;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span20258a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42496_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span331890>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object42496;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span331890 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1aefe4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span226784>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1aefe4;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span226784 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object45e5b_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spanac06d>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object45e5b;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spanac06d .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object180da3_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span227d67>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object180da3;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span227d67 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object430c6_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2c9f97>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object430c6;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2c9f97 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event21d2c4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d36df_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span29d3a1>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event21d2c4;
+        ss:eventConnectionObject    :foko_Object1d36df;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span29d3a1 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3eb66_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1771b1>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object3eb66;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1771b1 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event188d70_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f775_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span188d6f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event188d70;
+        ss:eventConnectionObject    :foko_Object3f775;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span188d6f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2022d1_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span202590>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object2022d1;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span202590 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object406f5_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1f566a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object406f5;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1f566a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event226af8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object317a46_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span31805a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event226af8;
+        ss:eventConnectionObject    :foko_Object317a46;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span31805a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta67a2_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span5aed23>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Objecta67a2;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span5aed23 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object931da_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span93294>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object931da;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span93294 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object46f35_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spand533b>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object46f35;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spand533b .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2c1309_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3261bd>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object2c1309;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3261bd .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object43a5b_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span4e0d8e>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object43a5b;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span4e0d8e .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40a6c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1f6aac>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object40a6c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1f6aac .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2cb485_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2cbede>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object2cb485;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2cbede .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f8e9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1a3218>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3f8e9;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1a3218 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40431_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1c9ee4>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object40431;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1c9ee4 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f1eb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span17dbc3>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object3f1eb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span17dbc3 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event30d7ce_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta67a2_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span5aed27>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event30d7ce;
+        ss:eventConnectionObject    :foko_Objecta67a2;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span5aed27 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object317a46_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span31848e>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object317a46;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span31848e .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47c01_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1320ab>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object47c01;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1320ab .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d1238_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span22a782>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object1d1238;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span22a782 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object41752_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span32121a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object41752;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span32121a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object43a2e_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span26e134>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object43a2e;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span26e134 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta5a87_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span59024e>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Objecta5a87;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span59024e .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f6ee_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1a1cb0>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f6ee;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1a1cb0 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42496_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span331892>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object42496;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span331892 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object458b0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span98f34>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object458b0;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span98f34 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f000_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span187e07>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3f000;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span187e07 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f71c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1a22cf>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f71c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1a22cf .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1980f8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span249352>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object1980f8;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span249352 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object461f0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span165f24>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object461f0;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span165f24 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42b6a_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span17aeb9>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object42b6a;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span17aeb9 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3ed2c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span17f234>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object3ed2c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span17f234 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object412e3_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span210940>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object412e3;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span210940 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object34a914_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span3c18ca>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object34a914;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span3c18ca .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3fba3_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1aa0ee>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3fba3;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1aa0ee .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40bfd_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1d4e8c>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object40bfd;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1d4e8c .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object406f5_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1f5664>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object406f5;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1f5664 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2cb485_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2cc012>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object2cb485;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2cc012 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d3170_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span29c8a0>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object1d3170;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span29c8a0 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d861b_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2aa55a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object1d861b;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2aa55a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object331514_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span332813>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object331514;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span332813 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1bb6cb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span25cdb0>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1bb6cb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span25cdb0 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object420a7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span361d2f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object420a7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span361d2f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4871c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span13bfb8>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Object4871c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span13bfb8 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1bafeb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span25424c>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1bafeb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span25424c .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event1f260d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1bb926_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span25d48b>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event1f260d;
+        ss:eventConnectionObject    :foko_Object1bb926;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span25d48b .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object414f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2171b3>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object414f4;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2171b3 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d011a_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span297bd4>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object1d011a;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span297bd4 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event982ec_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object483ab_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span14b543>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event982ec;
+        ss:eventConnectionObject    :foko_Object483ab;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span14b543 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object48a99_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span15943d>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Object48a99;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span15943d .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1928bd_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span21b169>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1928bd;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span21b169 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event13cd44_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object48591_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span13e0c4>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event13cd44;
+        ss:eventConnectionObject    :foko_Object48591;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span13e0c4 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d8cca_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2c348b>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1d8cca;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2c348b .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f7a3_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span188f08>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3f7a3;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span188f08 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f747_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1a2440>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f747;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1a2440 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f1eb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span17dbcb>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f1eb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span17dbcb .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta67a2_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span5ae006>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Objecta67a2;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span5ae006 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47cb9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1257e3>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object47cb9;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1257e3 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object48cb4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span10031a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object48cb4;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span10031a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f8e9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1a321a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3f8e9;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1a321a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3afd24_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span57d10f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3afd24;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span57d10f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f1eb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span17dbc5>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3f1eb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span17dbc5 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4346f_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2bc293>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object4346f;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2bc293 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event175885_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object41667_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2209e1>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event175885;
+        ss:eventConnectionObject    :foko_Object41667;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2209e1 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d4276_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2a0377>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1d4276;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2a0377 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object48591_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span13e0c0>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object48591;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span13e0c0 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1e2a04_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1e3b25>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1e2a04;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1e3b25 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Objecta5afd_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span59c442>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Objecta5afd;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span59c442 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4213d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1e3575>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object4213d;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1e3575 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d36df_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span29d39f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object1d36df;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span29d39f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d38e8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span29e08c>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1d38e8;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span29e08c .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d420e_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span29fb85>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1d420e;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span29fb85 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object46437_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spanbcb35>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object46437;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spanbcb35 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f382_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1974b0>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f382;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1974b0 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event30d7ce_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object24fd52_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span30d7cd>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event30d7ce;
+        ss:eventConnectionObject    :foko_Object24fd52;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span30d7cd .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa096c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47a99_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spana096b>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa096c;
+        ss:eventConnectionObject    :foko_Object47a99;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spana096b .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5b6f4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f1eb_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span17dbc1>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5b6f4;
+        ss:eventConnectionObject    :foko_Object3f1eb;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span17dbc1 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event21d2c4_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f9a1_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span4677ab>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event21d2c4;
+        ss:eventConnectionObject    :foko_Object3f9a1;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span4677ab .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object43152_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2c23e9>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object43152;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2c23e9 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object49320_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span10ef4a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object49320;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span10ef4a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47d12_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1206e6>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object47d12;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1206e6 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event5ae23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object41699_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span34c688>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event5ae23;
+        ss:eventConnectionObject    :foko_Object41699;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span34c688 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object41a23_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2d8278>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object41a23;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2d8278 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f410_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span199df4>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f410;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span199df4 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f352_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span195f47>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f352;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span195f47 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event1efa83_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object245138_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span24515d>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event1efa83;
+        ss:eventConnectionObject    :foko_Object245138;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span24515d .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42897_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span171b25>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Object42897;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span171b25 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object47169_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spanec178>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object47169;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spanec178 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3f43e_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span19ab2a>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object3f43e;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span19ab2a .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventa0970_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4871c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span13bfb4>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventa0970;
+        ss:eventConnectionObject    :foko_Object4871c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span13bfb4 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event18703d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object40a6c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1f6aaa>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event18703d;
+        ss:eventConnectionObject    :foko_Object40a6c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1f6aaa .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event1f260d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object2022d1_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span20258c>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event1f260d;
+        ss:eventConnectionObject    :foko_Object2022d1;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span20258c .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3eb66_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span179ec1>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3eb66;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span179ec1 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1c9f35_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1c9fff>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object1c9f35;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1c9fff .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object420a7_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1ecc15>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object420a7;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1ecc15 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object4349d_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span30fc47>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object4349d;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span30fc47 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object3eb90_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span17a684>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object3eb90;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span17a684 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object41dca_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span33fab2>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object41dca;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span33fab2 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object1d3b20_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span29ef57>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object1d3b20;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span29ef57 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object418b1_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2e7aa3>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object418b1;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2e7aa3 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Eventbbcd0_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object466d6_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Spanc3521>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Eventbbcd0;
+        ss:eventConnectionObject    :foko_Object466d6;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Spanc3521 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event99c54_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object198ef9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span20e57f>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event99c54;
+        ss:eventConnectionObject    :foko_Object198ef9;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span20e57f .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object41cb8_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span1ea7e6>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object41cb8;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span1ea7e6 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object181f9c_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span229d68>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object181f9c;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span229d68 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object42581_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span216957>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object42581;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span216957 .
+
+<http://example.org/eventConnection/http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Historical_Event174ff9_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Ffoko_Object423ae_http%3A%2F%2Ffoko2014.gnm.de%2Fcontent%2Fecrm_E52_Time-Span2f7cd2>
+        rdf:type                    ss:EventConnection;
+        ss:eventConnectionEvent     :foko_Historical_Event174ff9;
+        ss:eventConnectionObject    :foko_Object423ae;
+        ss:eventConnectionTimespan  :ecrm_E52_Time-Span2f7cd2 .
